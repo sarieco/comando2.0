@@ -7124,7 +7124,7 @@ html:not(.tablet):not(.mobile) .profile-minimal-caption {
 }
 
 .jumbotron-classic-content {
-	max-width: 650px;
+	max-width: 100%;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
